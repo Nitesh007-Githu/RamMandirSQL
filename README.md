@@ -15,8 +15,7 @@ Explored relational database operations, including data insertion, joins, filter
 ## Tools Used
 SQL, MySQL (or preferred RDBMS), Sample Data
 
-Insights
-
+## Insights
 Donations varied across construction phases and ceremonies.
 
 Key architects and contributors were linked to specific milestones in temple construction.
@@ -24,5 +23,4 @@ Key architects and contributors were linked to specific milestones in temple con
 Timeline analysis helped understand the sequence of events and construction progress.
 
 ## Result
-
 The project provides a practical learning resource for SQL beginners to explore schema design, data insertion, and query writing in a structured, real-world inspired database scenario.
